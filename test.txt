@@ -6,8 +6,10 @@
             this with any content and adjust it as needed.
         </p>
     </div>
-    <div class="flex-shrink-0">
-        <img src="#" alt="" width="" />
+    ff
     </div>
-</div>
+
 mmm
+
+
+efdgergeg 
