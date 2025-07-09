@@ -2,8 +2,8 @@
     <div class="flex-grow-1 ms-3">
         <h5 class="mt-0">Media heading</h5>
         <p>
-            This is some content from a media component. You can replace
-            this with any content and adjust it as needed.
+           lorem50
+           kghhlj
         </p>
     </div>
     ff
